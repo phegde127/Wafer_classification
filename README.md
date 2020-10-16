@@ -13,4 +13,9 @@ Name of the files, Length of Date value in FileName, Length of Time value in Fil
 
 How to use the code
 
-To use this Python code, download the zip file and create an environment with python 3.6.10 and run the requirements.txt to install dependencies.
+To use this Python code, please follow the following steps:
+
+1. Download the zip file to local computer
+2. Create an environment with python 3.6.10 preferably in Pycharm
+3. Run pip install -r requirements.txt to install all the dependencies
+4. Open run.py in Pycharm and run the file
